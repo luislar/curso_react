@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  height: calc(100vh - 23px);
+  background: linear-gradient(to bottom right, #6675B6, #9908AC);
+}
+
+
